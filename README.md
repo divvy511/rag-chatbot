@@ -12,7 +12,6 @@ An intelligent **Retrieval-Augmented Generation (RAG)** chatbot that allows you 
 - Store and search them using **ChromaDB**
 - Retrieve relevant chunks and pass them to **Groq's LLaMA model**
 - Get **streaming AI responses** with **conversation memory**
-- Monitor a folder for new documents in real-time
 
 
 
